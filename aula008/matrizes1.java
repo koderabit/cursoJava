@@ -2,7 +2,7 @@ package aula008;
 import java.security.SecureRandom;
 public class matrizes1 {
     public static void main(String[] args) {
-        final int linhas=3;
+    final int linhas=3;
     final int colunas=5;
     int[][] matriz=new int[3][5];
 

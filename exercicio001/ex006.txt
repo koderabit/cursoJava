@@ -1,0 +1,8 @@
+Panorama além do congestionamento
+São Paulo é conhecida como a cidade que nunca para. Mas não é verdade, se considerarmos o trânsito. Segundo o Detran, São Paulo contabilizou 130 mil novos carros em 2013. No mesmo ano a frota total da cidade era de 5.445.562 veículos.
+O congestionamento não é o único problema que o paulistano enfrenta com o grande número de carros. Mais carros, mais população, e isso afeta a saúde da população.
+Segundo a Cetesb (Companhia Ambiental do Estado de São Paulo), em uma cidade grande assim, o fluxo de carros pode ser responsável por até 1,5 milhão de toneladas de monóxido de carbono, 387 mil toneladas de partículas de hidrocarboneto e 367 mil toneladas de óxidos de nitrogênio por ano. Esses gases podem causar doenças respiratórias sérias, principalmente em crianças, idosos ou em quem frequenta regiões de tráfego intenso. A Agência USP de Notícias divulgou que, entre 2004 e 2006, quase 9 mil idosos foram internados por problemas respiratórios causados pela poluição liberada por veículos.
+Enquanto uma solução mais eficiente não é tomada, atitudes simples podem diminuir o contato mais intenso com essas partículas, como evitar animais que soltam pelo dentro de casa e não frequentar lugares com muito congestionamento entre as 11 horas e 16 horas - horário em que há maior concentração de substância no ar.
+
+Exercício:
+Imagine que, em 2013, São Paulo, com 5 milhões de carros, lançou no ar 1 milhão de toneladas de monóxido de carbono. Pense e desenvolva um programa que calcule quanto a cidade poluiu em 2014 e quanto vai poluir nos anos de 2015 a 2017. Leve em consideração que a taxa de crescimento da frota de carros se mantinha no mesmo nível de 2013, ou seja, 130 mil novos carros por ano até 2017.
