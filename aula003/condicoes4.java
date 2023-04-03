@@ -1,5 +1,5 @@
 package aula003;
-public class condicoes4 {
+public class Condicoes4 {
     public static void main(String[] args) {
         int numSorte = 45;
         switch(numSorte){

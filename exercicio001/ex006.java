@@ -1,6 +1,6 @@
 package exercicio001;
 import java.text.DecimalFormat; //biblioteca para formatação dos números reais
-public class ex006 {
+public class Ex006 {
     public static void main(String[] args) {
         final double frota2013 = 5445562;
         final double co2013 = 1000000;

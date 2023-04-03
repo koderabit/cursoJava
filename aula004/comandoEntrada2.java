@@ -1,6 +1,6 @@
 package aula004;
 import java.util.Scanner;
-public class comandoEntrada2 {
+public class ComandoEntrada2 {
     public static void main(String[] args) {
         try (Scanner scan = new Scanner(System.in)) {
             final double MEDIA_CORTE_MEDICINA = 800.00, MEDIA_CORTE_ENGENHARIA_SOFTWARE = 750.00, MEDIA_CORTE_METEOROLOGIA = 750.00;

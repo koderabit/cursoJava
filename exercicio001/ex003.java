@@ -6,7 +6,7 @@
  */
 package exercicio001;
 import java.util.Scanner;
-public class ex003 {
+public class Ex003 {
     public static void main(String[] args) {
         try (Scanner read = new Scanner(System.in)) {
             double n1, n2, pontuacao;

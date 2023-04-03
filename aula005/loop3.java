@@ -1,6 +1,6 @@
 package aula005;
 
-public class loop3 {
+public class Loop3 {
     public static void main(String[] args) {
         /*DO... WHILE - APLICAÇÃO
          * do{

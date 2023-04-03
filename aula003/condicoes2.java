@@ -1,5 +1,5 @@
 package aula003;
-public class condicoes2 { //condições compostas
+public class Condicoes2 { //condições compostas
     public static void main(String[] args) {
         double mediaTurma = 7.00;
         double nota1 = 6.5;

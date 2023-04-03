@@ -1,6 +1,6 @@
 package aula005;
 
-public class loop2 {
+public class Loop2 {
     public static void main(String[] args) {
         /*WHILE - APLICAÇÃO
          * while(condição){

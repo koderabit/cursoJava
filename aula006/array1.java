@@ -1,6 +1,6 @@
 package aula006;
 
-public class array1 {
+public class Array1 {
     public static void main(String[] args) {
         int[] num=new int[11]; //array de inteiros com 11 posições
         System.out.println("Início da contagem:");

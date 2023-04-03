@@ -1,6 +1,6 @@
 package aula002;
 
-public class cursoJava {
+public class CursoJava{
     public static void main(String[] args) {
         String msg = "Koderabit, aproximando tecnologia e pessoas."; //declarando e inicializando a variável msg
         int num = 2023; //declarando e inicializando a variável num

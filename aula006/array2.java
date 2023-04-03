@@ -1,6 +1,6 @@
 package aula006;
 import java.util.Scanner;
-public class array2 {
+public class Array2 {
     public static void main(String[] args) {
         try (Scanner scan = new Scanner(System.in)) {
             /*String[] materias=new String[5];

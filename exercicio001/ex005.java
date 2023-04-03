@@ -3,7 +3,7 @@
  */
 package exercicio001;
 import java.security.SecureRandom;
-public class ex005 {
+public class Ex005 {
     public static void main(String[] args) {
         int[][] mat = new int [10][10];
         for(int l=0; l<10;l++){

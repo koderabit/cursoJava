@@ -1,6 +1,6 @@
 package aula003;
 
-public class condicoes { //condições simples
+public class Condicoes { //condições simples
     public static void main(String[] args) {
         /*
          * if - condição simples

@@ -1,6 +1,6 @@
 package aula004;
 import java.util.Scanner; //importanto a classe Scanner
-public class comandoEntrada1 {
+public class ComandoEntrada1 {
     public static void main(String[] args) {
         try (Scanner read = new Scanner(System.in)) {
             double n1 = 0, n2 = 0, media=0;

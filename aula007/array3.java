@@ -1,6 +1,6 @@
 package aula007;
 import java.util.Scanner;
-public class array3 {
+public class Array3 {
     public static void main(String[] args) {
         /*Arrays.sort(nomeArray); -> organiza o array em ordem crescente;
          * Arrays.fill(valorPreencher); -> preenche o array com o valor determinado dentro dos parênteses;

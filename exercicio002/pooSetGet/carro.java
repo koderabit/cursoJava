@@ -1,7 +1,7 @@
 package exercicio002.pooSetGet;
 import java.util.Scanner;
 import java.text.DecimalFormat;
-public class carro{ //início da classe carro
+public class Carro{ //início da classe carro
     String modelo, fabricante, cor, placa;
     double valor;
     int numPortas, anoModelo, anoFabricacao;
@@ -130,7 +130,7 @@ public class carro{ //início da classe carro
     }
 
     public static void main(String[] args){
-        carro carro1 = new carro();
+        Carro carro1 = new Carro();
         carro1.entradaDados();
         carro1.imprimir();
     }
