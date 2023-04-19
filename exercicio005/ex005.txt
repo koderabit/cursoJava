@@ -1,0 +1,5 @@
+1- 
+Crie uma classe com três atributos: nome, sobrenome e salário mensal. Defina um construtor para iniciá-los. Então programe um aplicativo que demonstre o salário anual de três objetos da classe.
+
+2- 
+Use o mesmo exemplo feito no exercício anterior, considerando um aumento de 20% no salário de cada objeto. Exiba o salário anual de cada um com o aumento de 20%.

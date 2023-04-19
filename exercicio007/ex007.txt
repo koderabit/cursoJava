@@ -1,0 +1,5 @@
+1- 
+Uma livraria tem lucro bruto por mês de R$ 30.200 em livros físicos e R$ 22.540 em e-books. Considere que 10% do valor de cada um desses montantes deva ser repassado como imposto. Faça um programa que calcule o lucro líquido (já desconsiderando os impostos) de livros e e-books separadamente ao final de um período de um semestre.
+
+2- 
+Ainda em relação ao exercício anterior, faça um programa que calcule o lucro líquido total dos dois objetos (livros e e-books) ao final de um período de um ano e meio.
